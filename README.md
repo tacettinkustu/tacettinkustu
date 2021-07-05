@@ -17,7 +17,7 @@
     <img  height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png">
     <img  height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="SQL" alt="SQL" height=40
-      src="https://e7.pngegg.com/pngimages/614/744/png-clipart-mysql-database-mariadb-dolphin-marine-mammal-animals.png">
+      src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png">
     <img  height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
     <img  height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
