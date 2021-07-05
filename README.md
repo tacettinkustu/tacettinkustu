@@ -21,7 +21,7 @@
     <img  height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
     <img  height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
-  <img  height=40 src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png">
+  <img  height=40 src="https://image.pngaaa.com/425/5006425-middle.png">
    <img  height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 </div>
 
