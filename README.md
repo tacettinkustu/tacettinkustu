@@ -23,6 +23,6 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
     <img  height=40 src="https://image.pngaaa.com/425/5006425-middle.png">
     <img  height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-    <img  height=40 src="https://w7.pngwing.com/pngs/978/465/png-transparent-learning-opencv-computer-vision-machine-learning-c-robotics-text-computer-logo.png">
+    <img  height=40 src="https://pbs.twimg.com/profile_images/1062285235331698688/kcriCD8e.jpg">
 </div>
 
