@@ -6,7 +6,7 @@
 
 
 ### My Github Statistics :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacettinkustu)](https://github.com/anuraghazra/github-readme-stats)
+[![Tacettin Kustu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacettinkustu&show_icons=true&theme=radical)]
 
 
 #### My stacks are :
