@@ -6,7 +6,7 @@
 
 
 ### My Github Statistics :
-[![Tacettin Kustu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacettinkustu&show_icons=true&theme=radical)]
+![Tacettin Kustu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacettinkustu&show_icons=true&theme=radical)
 
 
 #### My stacks are :
