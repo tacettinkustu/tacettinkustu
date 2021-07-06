@@ -5,6 +5,10 @@
 - 📫 How to reach me: ttkustu@gmail.com
 
 
+### My Github Statistics :
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacettinkustu)](https://github.com/anuraghazra/github-readme-stats)
+
+
 #### My stacks are :
 
 <div style="display:inline">
