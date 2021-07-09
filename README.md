@@ -25,7 +25,7 @@
     <img title="SQL" alt="SQL" height=40
       src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" alt="my-sql">
     <img  height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="sass">
-    <img  height=40
+    <img  height=45
       src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png" alt="bootstrap">
     <img  height=40 src="https://image.pngaaa.com/425/5006425-middle.png" alt="html">
     <img  height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git">
