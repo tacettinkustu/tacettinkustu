@@ -1,8 +1,8 @@
 # Hi! I am Tacettin 👋
 
 - 🔭 I’m a full stack developer who loves to learn new technologies . 
-- 👯 I would love to collaborate on  MERN
-- 📫 How to reach me: ttkustu@gmail.com
+- 👯 I would love to collaborate on  MERN.
+- 📫 How to reach me: ttkustu@gmail.com.
 
 
 
