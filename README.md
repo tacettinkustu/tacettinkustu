@@ -1,4 +1,4 @@
-# Hi! I am Tacettin <img height=20 src="https://c.tenor.com/skLObiUvWIwAAAAj/animal-puppy.gif" alt="gif">
+# Hi! I am Tacettin <img height=40 src="https://c.tenor.com/skLObiUvWIwAAAAj/animal-puppy.gif" alt="gif">
 
 - 🔭 I’m a full stack developer who loves to learn new technologies . 
 - 👯 I would love to collaborate on  MERN.
