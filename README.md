@@ -1,4 +1,4 @@
-# Hi! I am Tacettin <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" alt="gif" style="width: 54px; height: 55px; object-fit: cover;">
+# Hi! I am Tacettin <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" alt="gif" style="width: 20px; height: 55px; object-fit: cover;">
 
 - 🔭 I’m a full stack developer who loves to learn new technologies . 
 - 👯 I would love to collaborate on  MERN.
