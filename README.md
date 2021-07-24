@@ -1,4 +1,4 @@
-# Hi! I am Tacettin 👋
+# Hi! I am Tacettin https://c.tenor.com/skLObiUvWIwAAAAj/animal-puppy.gif
 
 - 🔭 I’m a full stack developer who loves to learn new technologies . 
 - 👯 I would love to collaborate on  MERN.
