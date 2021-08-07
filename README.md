@@ -31,5 +31,5 @@
     <img  height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git">
     <img  height=40 src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="figma">
     <img  height=45 src="https://pbs.twimg.com/profile_images/1062285235331698688/kcriCD8e.jpg" alt="opencv">
-    <img  height=45 src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW.png alt="docker">
+    <img  height=45 src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW.png" alt="docker">
 </div>
