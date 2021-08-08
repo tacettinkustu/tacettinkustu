@@ -21,6 +21,7 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" alt="js">
     <img  height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react">
     <img  height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux">
+    <img  height=60 src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW.png" alt="docker">
     <img   height=40 src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" alt="python" alt="python">
     <img title="SQL" alt="SQL" height=40
       src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" alt="my-sql">
@@ -31,5 +32,4 @@
     <img  height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git">
     <img  height=40 src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="figma">
     <img  height=45 src="https://pbs.twimg.com/profile_images/1062285235331698688/kcriCD8e.jpg" alt="opencv">
-    <img  height=60 src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW.png" alt="docker">
 </div>
