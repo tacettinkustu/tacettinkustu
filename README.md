@@ -21,8 +21,8 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" alt="js">
     <img  height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react">
     <img  height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux">
+    <img  height=40 src="https://codability.com.au/wp-content/uploads/2018/01/VueJS_Logo.png" alt="vue"
     <img  height=40 src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="docker">
-    <img  height=40 src="https://codability.com.au/wp-content/uploads/2018/01/VueJS_Logo.png" alt="vue">
     <img   height=40 src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" alt="python" alt="python">
     <img title="SQL" alt="SQL" height=40
       src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" alt="my-sql">
