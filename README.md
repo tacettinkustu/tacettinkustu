@@ -33,5 +33,6 @@
     <img  height=40 src="https://image.pngaaa.com/425/5006425-middle.png" alt="mongodb">
     <img  height=40 src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="jest">
     <img  height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git">
+    <img  height=40 src="https://www.pngfind.com/pngs/m/432-4329261_jira-software-logo-jira-logo-hd-png-download.png" alt="jira">
     <img  height=35 src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="figma">
 </div>
