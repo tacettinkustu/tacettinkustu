@@ -31,8 +31,8 @@
     <img  height=46
       src="https://brandslogo.net/wp-content/uploads/2016/06/bootstrap-logo-vector-download.jpg" alt="bootstrap">
     <img  height=40 src="https://image.pngaaa.com/425/5006425-middle.png" alt="mongodb">
-    <img  height=40 src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="jest">
+    <img  height=38 src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="jest">
     <img  height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git">
     <img  height=35 src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="figma">
-    <img  height=35 src="https://uploads-ssl.webflow.com/5ebd54898c31000820363e17/5f281f3ca33484c228b6480e_jira-logo-C71F8C0324-seeklogo.com.png" alt="jira">
+    <img  height=38 src="https://uploads-ssl.webflow.com/5ebd54898c31000820363e17/5f281f3ca33484c228b6480e_jira-logo-C71F8C0324-seeklogo.com.png" alt="jira">
 </div>
