@@ -2,7 +2,7 @@
 
 - 🔭 I’m a developer who loves to learn new technologies. 
 - 📚 Lifelong learner.
-- 👯 I would love to collaborate on MERN.
+- 🤝 I would love to collaborate on MERN.
 - 📫 How to reach me: ttkustu@gmail.com.
 
 
