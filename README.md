@@ -1,4 +1,4 @@
-# Hi! I am Tacettin <img height=55 src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" alt="gif">
+# Hi! I am Tacettin <img height=55 src="https://i.imgur.com/OTKgDSt.gif" alt="gif">
 
 - 🔭 I’m a developer who loves to learn new technologies. 
 - 📚 Lifelong learner.
