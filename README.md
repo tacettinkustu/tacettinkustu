@@ -1,6 +1,5 @@
 # Hi! I am Tacettin <img height=50 src="https://i.imgur.com/OTKgDSt.gif" alt="gif">
 
-- 🔭 I’m a developer who loves to learn new technologies. 
 - 📚 Lifelong learner.
 - 🤝 I would love to collaborate on MERN.
 - 📫 How to reach me: ttkustu@gmail.com.
