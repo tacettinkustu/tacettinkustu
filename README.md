@@ -30,6 +30,8 @@
     <img  height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="sass">
     <img  height=46
       src="https://brandslogo.net/wp-content/uploads/2016/06/bootstrap-logo-vector-download.jpg" alt="bootstrap">
+    <img  height=40
+      src="https://user-images.githubusercontent.com/51737508/143218536-87092369-f054-41b5-a7c7-988446ee7260.png" alt="tailwind">
     <img  height=40 src="https://image.pngaaa.com/425/5006425-middle.png" alt="mongodb">
     <img  height=38 src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="jest">
     <img  height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git">
