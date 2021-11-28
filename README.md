@@ -27,7 +27,7 @@
     <img   height=40 src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" alt="python" alt="python">
     <img title="SQL" alt="SQL" height=40
       src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" alt="my-sql">
-    <img  height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="sass">
+    <img  height=38 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="sass">
     <img  height=46
       src="https://brandslogo.net/wp-content/uploads/2016/06/bootstrap-logo-vector-download.jpg" alt="bootstrap">
     <img  height=40
