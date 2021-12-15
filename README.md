@@ -1,7 +1,7 @@
 # Hi! I am Tacettin <img height=50 src="https://i.imgur.com/OTKgDSt.gif" alt="gif">
 
  📚 Lifelong learner.<br>
- 🤝 I would love to collaborate on MERN.<br>
+ 🤝 I would like to collaborate on MERN stack.<br>
  📫 How to reach me: ttkustu@gmail.com.<br>
 
 
