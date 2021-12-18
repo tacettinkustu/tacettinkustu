@@ -25,14 +25,16 @@
     <img  height=40 src="https://develop365.gitlab.io/nuxtjs-1.4.0-doc/de/logos/nuxt-square.svg" alt="nuxt">
     <img  height=38 src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="docker">
     <img   height=40 src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" alt="python" alt="python">
-    <img title="SQL" alt="SQL" height=40
-      src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" alt="my-sql">
     <img  height=32 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="sass">
     <img  height=46
       src="https://brandslogo.net/wp-content/uploads/2016/06/bootstrap-logo-vector-download.jpg" alt="bootstrap">
     <img  height=40
       src="https://user-images.githubusercontent.com/51737508/143218536-87092369-f054-41b5-a7c7-988446ee7260.png" alt="tailwind">
     <img  height=40 src="https://image.pngaaa.com/425/5006425-middle.png" alt="mongodb">
+    <img title="SQL" alt="SQL" height=40
+      src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" alt="my-sql">
+    <img title="PSQL" alt="PSQL" height=40
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="psql">
     <img  height=38 src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="jest">
     <img  height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git">
     <img  height=36 src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="figma">
