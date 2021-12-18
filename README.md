@@ -31,8 +31,6 @@
     <img  height=40
       src="https://user-images.githubusercontent.com/51737508/143218536-87092369-f054-41b5-a7c7-988446ee7260.png" alt="tailwind">
     <img  height=40 src="https://image.pngaaa.com/425/5006425-middle.png" alt="mongodb">
-    <img title="SQL" alt="SQL" height=40
-      src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" alt="my-sql">
     <img title="PSQL" alt="PSQL" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="psql">
     <img  height=38 src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="jest">
