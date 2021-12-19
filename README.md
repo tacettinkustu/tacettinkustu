@@ -31,7 +31,7 @@
     <img  height=40
       src="https://user-images.githubusercontent.com/51737508/143218536-87092369-f054-41b5-a7c7-988446ee7260.png" alt="tailwind">
     <img  height=40 src="https://image.pngaaa.com/425/5006425-middle.png" alt="mongodb">
-    <img title="PSQL" alt="PSQL" height=40
+    <img title="PSQL" alt="PSQL" height=38
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="psql">
     <img  height=38 src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="jest">
     <img  height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git">
