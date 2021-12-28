@@ -3,7 +3,7 @@
  📚 Lifelong learner.<br>
  🤝 I would like to collaborate on MERN stack.<br>
  📫 How to reach me: ttkustu@gmail.com.<br>
- 💪 Don't Break the Chain ( 365 Days Code Challenge - 2022 ).<br>
+ 💪 Don't Break the Chain (365 Days Code Challenge - <strong>2022</strong>).<br>
 
 
 
