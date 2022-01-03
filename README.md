@@ -28,7 +28,7 @@
     <img   height=40 src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" alt="python" alt="python">
     <img  height=32 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="sass">
     <img  height=46
-      src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" alt="bootstrap">
+      src="https://ieee.ku.edu.tr/wp-content/uploads/2016/03/bootstrap-logo.jpg" alt="bootstrap">
     <img  height=40
       src="https://user-images.githubusercontent.com/51737508/143218536-87092369-f054-41b5-a7c7-988446ee7260.png" alt="tailwind">
     <img  height=40 src="https://image.pngaaa.com/425/5006425-middle.png" alt="mongodb">
