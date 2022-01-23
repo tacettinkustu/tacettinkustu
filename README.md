@@ -26,7 +26,7 @@
     <img  height=40 src="https://develop365.gitlab.io/nuxtjs-1.4.0-doc/de/logos/nuxt-square.svg" alt="nuxt">
     <img  height=36 src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="docker">
     <img   height=40 src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" alt="python" alt="python">
-    <img  height=32 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="sass">
+    <img  height=36 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="sass">
     <img  height=38
       src="https://ieee.ku.edu.tr/wp-content/uploads/2016/03/bootstrap-logo.jpg" alt="bootstrap">
     <img  height=40
