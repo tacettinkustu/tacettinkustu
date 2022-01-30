@@ -29,7 +29,7 @@
     <img  height=36 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="sass">
     <img  height=38
       src="https://ieee.ku.edu.tr/wp-content/uploads/2016/03/bootstrap-logo.jpg" alt="bootstrap">
-    <img  height=40
+    <img  height=42
       src="https://user-images.githubusercontent.com/51737508/143218536-87092369-f054-41b5-a7c7-988446ee7260.png" alt="tailwind">
     <img  height=40 src="https://image.pngaaa.com/425/5006425-middle.png" alt="mongodb">
     <img title="PSQL" alt="PSQL" height=38
