@@ -2,7 +2,7 @@
 
  📚 Lifelong learner.<br>
  🤝 I would like to collaborate on MERN and VILT stacks.<br>
- 📫 How to reach me: ttkustu@gmail.com.<br>
+ 🤓 Think twice, code once.<br>
  🏃 <strong>365 days of code challenge - 2022</strong>.<br>
 
 
