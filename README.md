@@ -23,7 +23,7 @@
     <img  height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react">
     <img  height=38 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux">
     <img  height=40 src="https://codability.com.au/wp-content/uploads/2018/01/VueJS_Logo.png" alt="vue">
-    <img  height=40 src="https://develop365.gitlab.io/nuxtjs-1.4.0-doc/de/logos/nuxt-square.svg" alt="nuxt">
+    <img  height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" alt="nuxt">
     <img  height=36 src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="docker">
     <img   height=40 src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" alt="python" alt="python">
     <img  height=36 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="sass">
