@@ -31,7 +31,7 @@
       src="https://ieee.ku.edu.tr/wp-content/uploads/2016/03/bootstrap-logo.jpg" alt="bootstrap">
     <img  height=42
       src="https://user-images.githubusercontent.com/51737508/143218536-87092369-f054-41b5-a7c7-988446ee7260.png" alt="tailwind">
-    <img  height=40 src="https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01-1024x706.png" alt="mongodb">
+    <img  height=40 src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" alt="mongodb">
     <img title="PSQL" alt="PSQL" height=38
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="psql">
     <img  height=38 src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="jest">
