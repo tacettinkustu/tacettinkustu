@@ -8,7 +8,7 @@
 
 
 ### My Github Statistics :
-![Tacettin Kustu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacettinkustu&show_icons=true&theme=buefy&hide_title=true)
+![Tacettin Kustu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacettinkustu&show_icons=true&theme=swift&hide_title=true)
 
 
 
