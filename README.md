@@ -7,12 +7,12 @@
 
 
 
-### My Github Statistics :
+## 📊 My Github Statistics :
 ![Tacettin Kustu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacettinkustu&show_icons=true&theme=swift&hide_title=true)
 
 
 
-### My stacks are :
+## 🛠️ My stacks are :
 
 <div style="display:inline">
     <img height=38 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" alt="html">
