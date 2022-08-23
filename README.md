@@ -1,7 +1,6 @@
 # Hi! I am Tacettin <img height=35 src="https://cdn.jsdelivr.net/npm/twemoji@11.0.1/2/svg/1f44b.svg" alt="hello">
 
  📚 Lifelong learner.<br>
- 🤝 I would like to collaborate on MERN and VILT stacks.<br>
  🤓 Think twice, code once.<br>
  🏃 <strong>365 days of code challenges-2022</strong>.<br>
 
