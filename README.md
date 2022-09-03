@@ -3,7 +3,7 @@
  📚 Lifelong learner.<br>
  🤓 Think twice, code once.<br>
  📣 It is not enough for code to work.<br>
- 🏃 <strong>365 days of code challenges-2022</strong>.<br>
+ 🏃 <strong>365 days of code challenges - 2022</strong>.<br>
 
 
 
